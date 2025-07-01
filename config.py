@@ -1,0 +1,9 @@
+IMG_HEIGHT = 64
+IMG_WIDTH = 64
+CHANNELS = 3
+LATENT_DIM = 100
+BATCH_SIZE = 64
+EPOCHS = 5000
+DATA_PATH = './data/processed/'
+MODEL_SAVE_PATH = './outputs/models/'
+GENERATED_IMG_PATH = './outputs/generated/'
