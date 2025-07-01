@@ -1,0 +1,13 @@
+tensorflow==2.15.0
+numpy
+matplotlib
+Pillow
+tqdm
+gradio
+scikit-learn
+
+transformers
+tensorflow-hub
+
+ipykernel
+notebook
